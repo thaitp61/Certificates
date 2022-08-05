@@ -64,25 +64,19 @@
 </table>
 
 # Certificates:
- Python for Everybody
+ Python for Everybody:
 
 <p align="center">
   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/P2S2FBXQMTS5">
     <img alt="Introduction to JavaScript" title="Introduction to JavaScript" src="certificates/Python_for_Everybody.png" width="300px" />
   </a>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/MBSDFCKQ9X8E">
-    <img alt="Audio Classification with TensorFlow" title="Audio Classification with TensorFlow" src="certificates/Coursera%20MBSDFCKQ9X8E.png" width="300px" />
-  </a>
-</p>
+  
+ CertNexus Certified Ethical Emerging Technologist Professional Certificate:
 
 <p align="center">
-  <a href="https://www.coursera.org/account/accomplishments/certificate/XFNU3UXCK5DG">
-    <img alt="Introduction to JavaScript" title="Introduction to JavaScript" src="certificates/Coursera%20XFNU3UXCK5DG.png" width="300px" />
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/M2Q9JZFJ4CQ3">
+    <img alt="Introduction to JavaScript" title="Introduction to JavaScript" src="certificates/CertNexus_Certified_Ethical_Emerging_Technologist.png" width="300px" />
   </a>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/MBSDFCKQ9X8E">
-    <img alt="Audio Classification with TensorFlow" title="Audio Classification with TensorFlow" src="certificates/Coursera%20MBSDFCKQ9X8E.png" width="300px" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://www.coursera.org/account/accomplishments/certificate/PQMJRCLM7BCQ">
