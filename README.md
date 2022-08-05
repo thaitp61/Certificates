@@ -77,5 +77,17 @@
   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/M2Q9JZFJ4CQ3">
     <img alt="Introduction to JavaScript" title="Introduction to JavaScript" src="certificates/CertNexus_Certified_Ethical_Emerging_Technologist.png" width="600px" />
   </a>
+  
+   Software Development Lifecycle:
+  
+   Web Design for Everybody: Basics of Web Development & Coding:
+  
+   Computer Communications:
+  
+   Academic Skills for University Success:
+  
+  
+
+
 
 
