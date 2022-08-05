@@ -79,22 +79,26 @@
   </a>
   
    Software Development Lifecycle:
+  <p align="center">
   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/BSEM8CRVQA45">
     <img alt="Introduction to JavaScript" title="Introduction to JavaScript" src="certificates/Software_Development_Lifecycle.png" width="600px" />
   </a>
   
    Web Design for Everybody: Basics of Web Development & Coding:
+    <p align="center">
   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/H9K3U4QDPAYM">
     <img alt="Introduction to JavaScript" title="Introduction to JavaScript" src="certificates/Web_Design_for_Everybody.png" width="600px" />
   </a>
   
   
    Computer Communications:
+      <p align="center">
   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/5RTDEPLUS48R">
     <img alt="Introduction to JavaScript" title="Introduction to JavaScript" src="certificates/Computer_Communications.png" width="600px" />
   </a>
   
    Academic Skills for University Success:
+        <p align="center">
   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/T9UN656AFV5L">
     <img alt="Introduction to JavaScript" title="Introduction to JavaScript" src="certificates/Academic_Skills_for_University_Success.png" width="600px" />
   </a>
